@@ -1,2 +1,2 @@
 # PS-1-RRI-Project
-All documentation of projects covered in PS-1 at RRI
+All documentation of projects covered in summer internship at RRI
